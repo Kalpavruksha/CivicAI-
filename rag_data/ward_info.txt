@@ -1,0 +1,18 @@
+Ward Reference — Hubli & Dharwad (sample)
+
+Ward 1: Navanagar — landmarks: Navanagar Bus Stop, District Hospital
+Ward 2: Unkal — landmarks: Unkal Lake, Karnatak College
+Ward 3: Old Hubli — landmarks: Old Bus Stand, Old Market
+Ward 4: Pashan Nagar
+Ward 5: Unkal Cross — landmarks: Unkal Cross Bus Stop
+Ward 7: Gokul Road
+Ward 12: Saptapur Market
+Ward 15: Keshwapur
+Dharwad Ward A: Dharwad Market
+Dharwad Ward B: RD Road
+
+Emergency Contacts:
+- HDMC Helpline: 080-XXXX-XXXX
+- Water Helpline: 080-YYYY-YYYY
+- ESCom emergency: 080-ZZZZ-ZZZZ
+(Use public numbers or placeholders for demo)

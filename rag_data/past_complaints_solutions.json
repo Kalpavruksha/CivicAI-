@@ -1,0 +1,30 @@
+[
+  {
+    "complaint": "Large pothole causing vehicle damage near Gokul Road, Hubli",
+    "location": "Gokul Road, Hubli",
+    "ward": "Ward 7",
+    "solution": "PWD team patched the pothole and scheduled permanent resurfacing next week.",
+    "time_to_fix": "36 hours"
+  },
+  {
+    "complaint": "Garbage accumulation behind Saptapur market - not collected for 4 days",
+    "location": "Saptapur Market, Hubli",
+    "ward": "Ward 12",
+    "solution": "Sanitation crew cleared site, placed temporary bins and added an extra pickup for 7 days.",
+    "time_to_fix": "18 hours"
+  },
+  {
+    "complaint": "Water supply disrupted in Old Hubli from mainline leak",
+    "location": "Old Hubli",
+    "ward": "Ward 3",
+    "solution": "WSD repaired pipe, provided 2 tanker runs; restored supply. Follow-up leak test passed.",
+    "time_to_fix": "10 hours"
+  },
+  {
+    "complaint": "Street light not working at Unkal Cross near bus stop",
+    "location": "Unkal Cross, Hubli",
+    "ward": "Ward 5",
+    "solution": "ESCOM team replaced fixture; verified lumens and timing.",
+    "time_to_fix": "48 hours"
+  }
+]

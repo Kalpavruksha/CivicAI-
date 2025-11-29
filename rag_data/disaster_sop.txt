@@ -1,0 +1,17 @@
+Disaster & Major Incident SOPs (short)
+
+Flooding / Heavy Rain
+- Immediate: Inform residents in low-lying areas, deploy drainage clearing teams.
+- Use pumps for standing water if required; coordinate with state disaster response if severe.
+- Prioritize hospitals, schools, and transit corridors.
+
+Contamination / Water-borne disease risk
+- Isolate supply if contamination suspected. Provide tankers and advise boiling water.
+- Notify health department for testing; public advisory via SMS/social.
+
+Fallen Trees / Major Road Block
+- Cordon the area and deploy municipal tree crew. Notify traffic police for diversions.
+- If power lines are involved, notify ESCOM immediately and wait for green flag before clearing.
+
+Electrical Fire / Live Wire
+- Evacuate immediate area, notify fire services and ESCOM. Do not touch lines. Use RAG to provide department SOP text to responders.

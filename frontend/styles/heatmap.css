@@ -1,0 +1,31 @@
+/* frontend/styles/heatmap.css */
+.leaflet-container { height: calc(100vh - 120px); width: 100%; }
+
+.pulse {
+  width: 24px;
+  height: 24px;
+  background: rgba(255,0,0,0.9);
+  border-radius: 50%;
+  position: relative;
+  box-shadow: 0 0 6px rgba(255,0,0,0.7);
+}
+.pulse::after {
+  content: "";
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  position: absolute;
+  left: 0;
+  top: 0;
+  animation: pulsate 1.4s ease-out infinite;
+  background: rgba(255,0,0,0.45);
+}
+@keyframes pulsate {
+  0% { transform: scale(1); opacity: 1; }
+  100% { transform: scale(3.5); opacity: 0; }
+}
+
+/* small legend */
+.heat-legend { background: #fff; padding: 8px; border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.08);}
+.heat-legend .item { display:flex; align-items:center; gap:8px; margin-bottom:6px; font-size:13px;}
+.color-dot { width:14px; height:14px; border-radius:3px; display:inline-block; }

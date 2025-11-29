@@ -1,0 +1,9 @@
+Department Roles & Responsibilities (HDMC simplified)
+
+- Public Works Department (PWD): Roads, potholes, footpaths, minor civic structures.
+- Sanitation Department (SD): Garbage collection, drain clearing, street cleaning.
+- Water Supply Department (WSD): Water mains, leak repairs, tanker operations.
+- Electrical/ESCOM: Streetlights, power distribution lines (coord with district ESCOM).
+- Health & Safety: Pest control, public health emergencies.
+- Town Planning: Unauthorized structures, encroachments, long-term road planning.
+- Emergency Services: Immediate hazard responses (fallen trees, fire risk, major accidents).

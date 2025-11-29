@@ -1,0 +1,13 @@
+Public Services & Helplines (demo contact list)
+
+- HDMC Portal: https://hdmc.example.gov (demo)
+- HDMC General Helpline: 080-XXXX-XXXX
+- Garbage Pickup Request: 080-1111-2222
+- Water Supply Emergency: 080-2222-3333
+- ESCOM Electrical Faults: 080-3333-4444
+- Police Emergency: 100
+- Fire Brigade: 101
+
+Service Notes:
+- Tanker requests processed within 12 hours where capacity exists.
+- Request photos where possible — improves verification and priority.

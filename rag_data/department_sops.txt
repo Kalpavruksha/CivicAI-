@@ -1,0 +1,19 @@
+Department SOPs (short action steps)
+
+Public Works Department (PWD)
+- On receiving pothole complaint: log, assess severity photo, dispatch patch team.
+- For major damage: cordon area, notify traffic unit, deploy patch + permanent repair.
+
+Sanitation Department
+- For overflow/blockage: dispatch sanitation crew, clear debris, disinfect area, notify pest control if required.
+- For garbage blackspots: schedule additional pickups and community awareness.
+
+Water Supply Dept
+- On leak/burst report: identify affected pipeline, shut section if needed, send repair crew, provide temporary tanker supply.
+
+ESCOM / Electrical
+- On downed wires or exposed live lines: immediately inform control room, cordon area, send repair crew with safety gear; escalate to police if danger to public.
+
+Complaint routing
+- Auto-route: system tags complaint and routes to correct department with location and urgency score.
+- If complaint contains images, attach to ticket for faster verification.
