@@ -1,15 +1,14 @@
-# Python virtual environment
+# Node dependencies
+node_modules/
+
+# Python virtual env
 venv/
 .venv/
 env/
 
-# Python cache
-__pycache__/
-*.pyc
-
-# Environment variables
+# Secrets
 .env
 
-# OS junk
-.DS_Store
-Thumbs.db
+# Cache
+__pycache__/
+*.pyc
