@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST="{\"dashboard.js -> ../components/UltraSmartCityMap\":{\"id\":\"dashboard.js -> ../components/UltraSmartCityMap\",\"files\":[\"static/chunks/components_UltraSmartCityMap_js.js\"]},\"heatmap.js -> react-leaflet\":{\"id\":\"heatmap.js -> react-leaflet\",\"files\":[\"static/chunks/node_modules_react-leaflet_lib_index_js.js\"]}}"
