@@ -12,3 +12,6 @@ env/
 # Cache
 __pycache__/
 *.pyc
+# Next.js build cache
+.next/
+out/
